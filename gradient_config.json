@@ -1,0 +1,48 @@
+{
+  "current_preset": "svg_original",
+  "custom_gradient": {
+    "center": "#530a0f",
+    "edge": "#222020"
+  },
+  "settings": {
+    "dot_radius": 4.94,
+    "svg_size": 406,
+    "border_size": 44.92,
+    "module_size": 9.88,
+    "background_color": "#FFFFFF",
+    "high_res_scale": 3,
+    "logo_size_percent": 12
+  },
+  "available_presets": {
+    "svg_original": {
+      "center": "#530a0f",
+      "edge": "#222020",
+      "name": "Original SVG (Dark Red to Gray)"
+    },
+    "blue_ocean": {
+      "center": "#0066cc",
+      "edge": "#001a33",
+      "name": "Blue Ocean (Light Blue to Dark Blue)"
+    },
+    "forest_green": {
+      "center": "#00cc66",
+      "edge": "#003d1a",
+      "name": "Forest Green (Light Green to Dark Green)"
+    },
+    "sunset": {
+      "center": "#ff6600",
+      "edge": "#330d00",
+      "name": "Sunset (Orange to Dark Brown)"
+    },
+    "purple_galaxy": {
+      "center": "#9966ff",
+      "edge": "#1a0033",
+      "name": "Purple Galaxy (Light Purple to Dark Purple)"
+    },
+    "gold_luxury": {
+      "center": "#ffcc00",
+      "edge": "#332600",
+      "name": "Gold Luxury (Gold to Dark Brown)"
+    }
+  }
+}
