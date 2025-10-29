@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QR Code Generator with Logo and Gradient
 
 This project generates custom QR codes with logos and gradient effects for batch processing of multiple codes.
