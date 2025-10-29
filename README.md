@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QR Code Generator with Logo and Gradient
 
 This project generates custom QR codes with logos and gradient effects for batch processing of multiple codes.
@@ -104,3 +105,6 @@ The script will generate:
 - `qr_codes/ABC123.png` → QR code for `https://example.com/redirect?code=ABC123`
 - `qr_codes/DEF456.png` → QR code for `https://example.com/redirect?code=DEF456`
 - `qr_codes/GHI789.png` → QR code for `https://example.com/redirect?code=GHI789`
+=======
+# QR-Code-Generator
+>>>>>>> 58983094404808e95b87735ab344f31a98da5b90
